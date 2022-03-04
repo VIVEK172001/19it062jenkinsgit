@@ -1,0 +1,6 @@
+projectKey=19IT062-manually
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=19IT062-manually
+ceTaskId=AX8vIY-1z9VmOf-6tkcH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX8vIY-1z9VmOf-6tkcH
